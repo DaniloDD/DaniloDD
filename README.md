@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danilo! <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7/">QA Engineer</a>, </h1>
+<h1>Hi, I'm Danilo! <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7/">QA Engineer, IT professional and Cybersecurity passionate</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
