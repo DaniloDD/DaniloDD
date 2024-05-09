@@ -1,12 +1,33 @@
 <h1>Hi, I'm Danilo! <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7/">QA Engineer, IT professional and Cybersecurity passionate</a> </h1>
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+<ul dir="auto">
+<li>
+<p dir="auto">🔭 I’m currently working on Playwright, Selenium,  <a href="https://github.com/apitestingco/KarateAPIAutomation">Karate API Automation Youtube Course</a></p>
+</li>
+<li>
+<p dir="auto">🌱 I’m currently learning Advance Design Patterns, Playwright, <strong>Karate API Automation, Cypress</strong></p>
+</li>
+<li>
+<p dir="auto">👯 I’m looking to collaborate on <strong>API Testing, Selenium, Automation Frameworks</strong></p>
+</li>
+<li>
+<p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://github.com/pramoddutta">https://github.com/pramoddutta</a></p>
+</li>
+<li>
+<p dir="auto">📝 I regularly write articles on <a href="https://scrolltest.com/" rel="nofollow">https://scrolltest.com/</a></p>
+</li>
+<li>
+<p dir="auto">💬 Ask me about <strong>Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling</strong></p>
+</li>
+<li>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:contact@thetestingacademy.com">contact@thetestingacademy.com</a></strong></p>
+</li>
+<li>
+<p dir="auto">📄 Know about my experiences <a href="http://linkedin.com/in/pramoddutta" rel="nofollow">http://linkedin.com/in/pramoddutta</a></p>
+</li>
+<li>
+<p dir="auto">⚡ Fun fact <strong>I have taught 10k+ people</strong></p>
+</li>
+</ul>
 
 <h2>👨‍💻 Projects:</h2>
 
