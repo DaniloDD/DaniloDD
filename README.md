@@ -31,8 +31,8 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/DaniloDD/AzureSoc)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Selenium Framework </b>
+  - [Login cases](https://github.com/DaniloDD/SeleniumFramework) <b><i> Handling </b></i>
 
 
 <h2>👨‍💻 Language and Tools:</h2>
