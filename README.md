@@ -1,4 +1,4 @@
-<h1>Hi, I'm Danilo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Danilo! <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7/">QA Engineer</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
