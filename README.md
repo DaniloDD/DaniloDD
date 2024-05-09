@@ -12,9 +12,7 @@
 <li>
 <p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://github.com/pramoddutta">https://github.com/pramoddutta</a></p>
 </li>
-<li>
-<p dir="auto">📝 I regularly write articles on <a href="https://scrolltest.com/" rel="nofollow">https://scrolltest.com/</a></p>
-</li>
+
 <li>
 <p dir="auto">💬 Ask me about <strong>Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling</strong></p>
 </li>
@@ -25,7 +23,7 @@
 <p dir="auto">📄 Know about my experiences <a href="http://linkedin.com/in/pramoddutta" rel="nofollow">http://linkedin.com/in/pramoddutta</a></p>
 </li>
 <li>
-<p dir="auto">⚡ Fun fact <strong>I have taught 10k+ people</strong></p>
+<p dir="auto">⚡ Fun fact <strong>...</strong></p>
 </li>
 </ul>
 
