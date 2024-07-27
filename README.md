@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Danilo Deiana 👋
 
 ![Profile Banner](https://your-image-url.com) <!-- Replace with your own banner image URL -->
 
@@ -6,9 +6,9 @@ I am a passionate Software Tester with expertise in ensuring the quality and rel
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Java, Python, JavaScript
-- **Testing Tools**: Selenium, Appium, JUnit, TestNG, Postman, JIRA
-- **CI/CD**: Jenkins, GitHub Actions
+- **Languages**: Java, JavaScript
+- **Testing Tools**: Selenium, JUnit, TestNG, Postman, JIRA
+- **CI/CD**: Jenkins, GitHub
 - **Version Control**: Git, GitHub
 - **Other**: SQL, REST APIs, Agile Methodologies
 
