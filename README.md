@@ -75,7 +75,7 @@
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: https://www.linkedin.com/in/danilo-deiana-9117261a7/
 - **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
 
