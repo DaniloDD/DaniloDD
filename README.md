@@ -1,55 +1,8 @@
-# Hi there, I'm Danilo Deiana 👋
-
-I am a passionate Software Tester with expertise in ensuring the quality and reliability of software products through rigorous testing and automation. My goal is to deliver bug-free and efficient software solutions to enhance user experience.
-
-## 🛠️ Skills & Tools
-
-- **Languages**: Java, JavaScript
-- **Testing Tools**: Selenium, JUnit, TestNG, Postman, JIRA
-- **CI/CD**: Jenkins, GitHub
-- **Version Control**: Git, GitHub
-- **Other**: SQL, REST APIs, Agile Methodologies
-
-## 🔍 Experience
-
-- **[Your Current Job Title]** at **[Your Company]** 
-  - *Duration*: [Start Date] - Present
-  - *Responsibilities*: [Brief description of your responsibilities and achievements]
-
-
-## 🌱 Currently Learning
-
-- Advanced automation techniques
-- AI/ML for test automation
-
-
-## 🏆 Achievements
-
-- Certified  CompTIA Sec+
-- Certified Associated Project Mangaer
-- Completed Bachelor of Information Engineering
-
-## 📫 Connect with Me
-
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-
-## 🔗 Projects
-
-- **[Project Name]**: [Brief description of the project]
-  - [GitHub Repository](https://github.com/your-username/project-repo)
-- **[Project Name]**: [Brief description of the project]
-  - [GitHub Repository](https://github.com/your-username/project-repo)
-
-
-
-
 
 <h1>Hi, I'm Danilo! <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7/">QA Engineer, IT professional and Cybersecurity passionate</a> </h1>
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working on Playwright, Selenium,  <a href="https://github.com/apitestingco/KarateAPIAutomation">Karate API Automation Youtube Course</a></p>
+<p dir="auto">🔭 I am a passionate Software Tester with expertise in ensuring the quality and reliability of software products through rigorous testing and automation. My goal is to deliver bug-free and efficient software solutions to enhance user experience.  <a href="https://github.com/apitestingco/KarateAPIAutomation">Karate API Automation Youtube Course</a></p>
 </li>
 <li>
 <p dir="auto">🌱 I’m currently learning Advance Design Patterns, Playwright, <strong>Karate API Automation, Cypress</strong></p>
@@ -92,3 +45,43 @@ I am a passionate Software Tester with expertise in ensuring the quality and rel
 
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Java, JavaScript
+- **Testing Tools**: Selenium, JUnit, TestNG, Postman, JIRA
+- **CI/CD**: Jenkins, GitHub
+- **Version Control**: Git, GitHub
+- **Other**: SQL, REST APIs, Agile Methodologies
+
+## 🔍 Experience
+
+- **[Your Current Job Title]** at **[Your Company]** 
+  - *Duration*: [Start Date] - Present
+  - *Responsibilities*: [Brief description of your responsibilities and achievements]
+
+
+## 🌱 Currently Learning
+
+- Advanced automation techniques
+- AI/ML for test automation
+
+
+## 🏆 Achievements
+
+- Certified  CompTIA Sec+
+- Certified Associated Project Mangaer
+- Completed Bachelor of Information Engineering
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+
+## 🔗 Projects
+
+- **[Project Name]**: [Brief description of the project]
+  - [GitHub Repository](https://github.com/your-username/project-repo)
+- **[Project Name]**: [Brief description of the project]
+  - [GitHub Repository](https://github.com/your-username/project-repo)
