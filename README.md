@@ -1,7 +1,5 @@
 # Hi there, I'm Danilo Deiana 👋
 
-![Profile Banner](https://your-image-url.com) <!-- Replace with your own banner image URL -->
-
 I am a passionate Software Tester with expertise in ensuring the quality and reliability of software products through rigorous testing and automation. My goal is to deliver bug-free and efficient software solutions to enhance user experience.
 
 ## 🛠️ Skills & Tools
@@ -18,25 +16,18 @@ I am a passionate Software Tester with expertise in ensuring the quality and rel
   - *Duration*: [Start Date] - Present
   - *Responsibilities*: [Brief description of your responsibilities and achievements]
 
-- **[Previous Job Title]** at **[Previous Company]**
-  - *Duration*: [Start Date] - [End Date]
-  - *Responsibilities*: [Brief description of your responsibilities and achievements]
 
 ## 🌱 Currently Learning
 
-- Advanced automation techniques with Cypress
-- Performance testing with JMeter
+- Advanced automation techniques
 - AI/ML for test automation
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical) <!-- Replace "your-username" with your GitHub username -->
 
 ## 🏆 Achievements
 
-- Certified ISTQB Tester
-- Completed [Relevant Certification or Course]
-- Contributed to [Open Source Project or Major Project]
+- Certified  CompTIA Sec+
+- Certified Associated Project Mangaer
+- Completed Bachelor of Information Engineering
 
 ## 📫 Connect with Me
 
@@ -50,17 +41,6 @@ I am a passionate Software Tester with expertise in ensuring the quality and rel
   - [GitHub Repository](https://github.com/your-username/project-repo)
 - **[Project Name]**: [Brief description of the project]
   - [GitHub Repository](https://github.com/your-username/project-repo)
-
-## 💡 Blog Posts
-
-- **[Blog Title]**: [Brief description or excerpt of the blog post]
-  - [Read More](https://your-blog-url.com)
-
----
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-repo) <!-- Replace "your-username.your-repo" with your GitHub username and repository name -->
-
-
 
 
 
