@@ -14,7 +14,7 @@
 <p dir="auto">💬 Ask me about <strong>Selenium, SDET, JAVA, Javascript, POSTMAN, Rest Assured</strong></p>
 </li>
 <li>
-<p dir="auto">📄 Know about my experiences <a href="http://linkedin.com/in/pramoddutta" rel="nofollow">http://linkedin.com/in/pramoddutta</a></p>
+<p dir="auto">📄 Know about my experiences <a href="https://www.linkedin.com/in/danilo-deiana-9117261a7" rel="nofollow"> https://www.linkedin.com/in/danilo-deiana-9117261a7 </a></p>
 </li>
 <li>
 <p dir="auto">⚡ Fun fact <strong>...</strong></p>
