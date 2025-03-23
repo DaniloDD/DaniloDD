@@ -3,11 +3,7 @@
 <ul dir="auto">
 <li>
 <p dir="auto">🔭 I am a passionate Software Tester with expertise in ensuring the quality and reliability of software products through rigorous testing and automation. My goal is to deliver bug-free and efficient software solutions to enhance user experience.  <a href="https://github.com/apitestingco/KarateAPIAutomation">Karate API Automation Youtube Course</a></p>
-</li>
-<li>
-<p dir="auto">🌱 I’m currently learning Advance Design Patterns, Playwright, <strong>Karate API Automation, Cypress</strong></p>
-</li>
-<li>
+
 <p dir="auto">👯 I’m looking to collaborate on <strong>API Testing, Selenium, Automation Frameworks</strong></p>
 </li>
 <li>
