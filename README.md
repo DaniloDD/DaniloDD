@@ -63,6 +63,7 @@
 ## 🏆 Achievements
 
 - Certified  CompTIA Sec+
+- ScrumMaster by ScrumAlliance
 - Certified Associated Project Mangaer
 - Completed Bachelor of Information Engineering
 
