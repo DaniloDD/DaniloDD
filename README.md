@@ -11,14 +11,11 @@
 <p dir="auto">👯 I’m looking to collaborate on <strong>API Testing, Selenium, Automation Frameworks</strong></p>
 </li>
 <li>
-<p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://github.com/pramoddutta">https://github.com/pramoddutta</a></p>
+<p dir="auto">👨&zwj;💻 All of my projects are available at <a href="https://github.com/DaniloDD?tab=repositories">https://github.com/DaniloDD?tab=repositories</a></p>
 </li>
 
 <li>
-<p dir="auto">💬 Ask me about <strong>Selenium, SDET, JAVA, Javascript, Cypress, POSTMAN, Rest Assured, Karate, Gatling</strong></p>
-</li>
-<li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:contact@thetestingacademy.com">contact@thetestingacademy.com</a></strong></p>
+<p dir="auto">💬 Ask me about <strong>Selenium, SDET, JAVA, Javascript, POSTMAN, Rest Assured</strong></p>
 </li>
 <li>
 <p dir="auto">📄 Know about my experiences <a href="http://linkedin.com/in/pramoddutta" rel="nofollow">http://linkedin.com/in/pramoddutta</a></p>
